@@ -1,5 +1,5 @@
 using UnityEngine;
-using BaseGame.Singletons;
+using Framework;
 using UnityEngine.SceneManagement;
 using System.Collections.Generic;
 public class GameManager : Singleton<GameManager>
